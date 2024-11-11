@@ -2,13 +2,13 @@
 title: Business Plan
 description: 
 published: true
-date: 2024-11-11T15:14:06.148Z
+date: 2024-11-11T15:50:52.647Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-11T05:50:04.235Z
 ---
 
-# Business Plan: Document Digitization and Management Solutions
+# Business Plan: Montana Document Solutions
 
 ## Executive Summary
 
