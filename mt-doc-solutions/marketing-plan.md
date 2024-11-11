@@ -2,12 +2,13 @@
 title: Marketing Plan
 description: 
 published: true
-date: 2024-11-11T15:05:25.996Z
+date: 2024-11-11T16:12:41.417Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-11T05:50:56.593Z
 ---
 
+# Marketing Plan: Montana Document Solutions
 ## Digital Marketing Plan
 
 1. **Website Launch and SEO Optimization**  
