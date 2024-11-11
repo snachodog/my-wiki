@@ -1,8 +1,8 @@
 ---
 title: Choteau Lions Club Wiki
-description: 
+description: Explore our mission, projects, and resources. Find governance info, member benefits, community projects, and ways to get involved. Stay updated on events and access key documents. Proudly serving Choteau with Lions Clubs International values.
 published: true
-date: 2024-11-11T04:35:06.434Z
+date: 2024-11-11T04:35:30.257Z
 tags: choteaulionsclubwiki
 editor: markdown
 dateCreated: 2024-11-11T04:30:25.367Z
