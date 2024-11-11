@@ -2,13 +2,11 @@
 title: Marketing Plan
 description: 
 published: true
-date: 2024-11-11T05:50:56.593Z
+date: 2024-11-11T15:05:25.996Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-11T05:50:56.593Z
 ---
-
-# Marketing Plan: Document Digitization and Management Solutions
 
 ## Digital Marketing Plan
 
