@@ -1,8 +1,8 @@
 ---
 title: Frequently Asked Questions
-description: 
+description: Frequently asked questions about Choteau
 published: true
-date: 2025-05-22T15:44:53.536Z
+date: 2025-05-22T15:48:47.378Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T14:17:48.897Z
