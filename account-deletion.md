@@ -2,7 +2,7 @@
 title: User Data Deletion Instructions for Choteau Wiki
 description: 
 published: true
-date: 2025-05-22T03:04:41.278Z
+date: 2025-05-22T03:19:46.749Z
 tags: account, meta, facebook
 editor: markdown
 dateCreated: 2025-05-22T03:04:41.278Z
@@ -28,7 +28,7 @@ Confirm the deletion when prompted.
 
 This will permanently remove your profile and any associated data from Choteau Wiki.
 
-If you are unable to log in or encounter issues, you may also request manual deletion by emailing: admin@choteau.wiki with the subject line “User Data Deletion Request”. Please include your Facebook-linked email address or user ID so we can locate your account.
+If you are unable to log in or encounter issues, you may also request manual deletion by emailing: wiki@dogiakos.com with the subject line “User Data Deletion Request”. Please include your Facebook-linked email address or user ID so we can locate your account.
 
 We are committed to protecting your privacy and complying with Meta’s platform policies.
 
