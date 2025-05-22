@@ -2,7 +2,7 @@
 title: Choteau Wiki Home
 description: A community-powered guide to all things Choteau—clubs, local know-how, and where to find what you need. Not official, just helpful.
 published: true
-date: 2025-05-22T03:52:48.290Z
+date: 2025-05-22T04:09:29.959Z
 tags: choteau montana, choteau wiki, local guide, community resources, how to choteau, choteau clubs, choteau events, volunteer choteau, city services, choteau history
 editor: markdown
 dateCreated: 2025-05-22T02:33:56.696Z
@@ -34,3 +34,5 @@ But that’s just the beginning.
 - Collaborative: Anyone in the community can contribute or request updates.
 - Practical: Focused on what’s useful, not just what’s official.
 - Ever-evolving: It’ll grow as the town grows, as new neighbors arrive, and as old-timers share their knowledge.
+
+<iframe src="https://discord.com/widget?id=503066175744245760&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
