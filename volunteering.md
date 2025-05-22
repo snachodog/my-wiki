@@ -2,7 +2,7 @@
 title: Volunteering in the community
 description: A guide to volunteer, charity, and nonprofit organizations in Choteau and how you can volunteer with them
 published: true
-date: 2025-05-22T15:24:39.108Z
+date: 2025-05-22T15:26:55.122Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T15:24:39.108Z
@@ -56,6 +56,7 @@ dateCreated: 2025-05-22T15:24:39.108Z
 - Trinity Lutheran
 - United Methodist
 - Baptist
-- Adventist
+- Old Paths Strict Baptist Church
+- Teton Adventist
 - Living the Word
 - Latter Day Saints
