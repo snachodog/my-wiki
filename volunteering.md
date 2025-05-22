@@ -2,7 +2,7 @@
 title: Volunteering in the community
 description: A guide to volunteer, charity, and nonprofit organizations in Choteau and how you can volunteer with them
 published: true
-date: 2025-05-22T15:26:55.122Z
+date: 2025-05-22T15:30:55.291Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T15:24:39.108Z
@@ -12,7 +12,8 @@ dateCreated: 2025-05-22T15:24:39.108Z
 
 ## Civic & Fraternal Organizations
 
-- Choteau Lions Club
+- [Choteau Lions Club](https://choteaulions.club)
+   - Talk to a member, visit a couple meetings, submit an application for invitation
 - Choteau & Vincinity Soroptimists
 - Choteau Masonic Lodge #44
 - Choteau American Legion Post #6
